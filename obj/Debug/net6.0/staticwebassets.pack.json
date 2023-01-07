@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\zendy\\Documents\\ProjectDOTNET\\MyTemplateBoiler\\ZenApp\\ZenApp\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
       "Id": "C:\\Users\\zendy\\Documents\\ProjectDOTNET\\MyTemplateBoiler\\ZenApp\\ZenApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9CcrqAjHXuoMs9UFxU058ZvUJor+pSFbOItvc+64BCo=",
+  "Hash": "cKnFst5PcwkKM+iH61ntj31t0lmYQxNIYzqbyWWMrbE=",
   "Source": "ZenApp",
   "BasePath": "_content/ZenApp",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\zendy\\Documents\\ProjectDOTNET\\MyTemplateBoiler\\ZenApp\\ZenApp\\wwwroot\\images\\img1.jpg",
+      "SourceId": "ZenApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zendy\\Documents\\ProjectDOTNET\\MyTemplateBoiler\\ZenApp\\ZenApp\\wwwroot\\",
+      "BasePath": "_content/ZenApp",
+      "RelativePath": "images/img1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img1.jpg"
     },
     {
       "Identity": "C:\\Users\\zendy\\Documents\\ProjectDOTNET\\MyTemplateBoiler\\ZenApp\\ZenApp\\wwwroot\\js\\site.js",
