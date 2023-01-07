@@ -1,0 +1,49 @@
+/* _content/ZenApp/Pages/Shared/_Layout.cshtml.rz.scp.css */
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+a.navbar-brand[b-zdwjsgfgfl] {
+  white-space: normal;
+  text-align: center;
+  word-break: break-all;
+}
+
+a[b-zdwjsgfgfl] {
+  color: #0077cc;
+}
+
+.btn-primary[b-zdwjsgfgfl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.nav-pills .nav-link.active[b-zdwjsgfgfl], .nav-pills .show > .nav-link[b-zdwjsgfgfl] {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.border-top[b-zdwjsgfgfl] {
+  border-top: 1px solid #e5e5e5;
+}
+.border-bottom[b-zdwjsgfgfl] {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow[b-zdwjsgfgfl] {
+  box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy[b-zdwjsgfgfl] {
+  font-size: 1rem;
+  line-height: inherit;
+}
+
+.footer[b-zdwjsgfgfl] {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  white-space: nowrap;
+  line-height: 60px;
+}
