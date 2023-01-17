@@ -5,7 +5,16 @@ module.exports = {
      './Views/**/*.{cshtml,html,js}'
 ],
   theme: {
-      extend: {},
+      extend: {
+        fontFamily: {
+          inter: [
+            'Inter',
+          ],
+        },
+      },
   },
-  plugins: [],
+  plugins: [
+    require( 'tailwindcss' ),
+    require( 'autoprefixer' ),
+  ],
 }

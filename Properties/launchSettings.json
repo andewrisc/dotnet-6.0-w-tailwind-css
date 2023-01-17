@@ -24,7 +24,7 @@
           "ASPNETCORE_ENVIRONMENT": "Development",
           "Key": "Value"
       },
-      "applicationUrl": "https://localhost:7296;http://localhost:5082",
+      "applicationUrl": "https://localhost:7296;n",
       "hotreloadprofile": "aspnetcore",
       "hotReloadEnabled" : true
   },

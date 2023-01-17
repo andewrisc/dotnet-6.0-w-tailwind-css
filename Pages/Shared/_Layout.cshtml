@@ -6,26 +6,20 @@
     <title>@ViewData["Title"] - Zendy Ajah</title>
     @* <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" /> *@
     @* <link rel="stylesheet" href="~/ZenApp.styles.css" asp-append-version="true" /> *@
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;600;700;900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="~/css/styles.css" asp-append-version="true" />
 </head>
 <body>
-    <header>
-        <h3>Zendy Ajah</h3>
-        <img src="~/images/img1.jpg" alt="minimalist" 
-        class="rounded-xl m-2" width="500px" height="500px">
-    </header> 
-    <div class="container">
-        <main role="main" class="pb-3">
+   
+   
+        <main role="main">
             @RenderBody()
         </main>
-    </div> 
+   
 
-   <footer>
-        <div class="container">
-            &copy; dotnet with tailwind css - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
-
+   
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
 
